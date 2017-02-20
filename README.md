@@ -23,7 +23,7 @@ We have two abstract reports made available to you on a PostgreSQL server locate
 
 postgres: horton.elephantsql.com
 
-You can find all of this information in the [config.py]() document.
+You can find all of this information in the [config.py](https://github.com/STiago/report-exporting-service/blob/master/app/config.py) document.
 
 A wireframe of a potential PDF template is attached at the bottom of this document.
 
