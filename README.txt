@@ -15,4 +15,3 @@ Endpoints:
 - http://localhost:8080/report/<id>/xml -> Generates the xml report for a given report id
 
 
-Cool thing I would have done if I had time: pack the microservice into a docker container and deploy it in AWS 
