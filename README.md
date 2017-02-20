@@ -1,6 +1,6 @@
 # María Victoria Santiago Alcalá
 
-Documentation: https://github.com/STiago/Pictures/blob/master/report-pdf.png
+Documentation: https://github.com/STiago/report-exporting-service/tree/gh-pages and https://stiago.github.io/report-exporting-service/
 
 ## Report Exporting Service
 
