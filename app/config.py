@@ -2,10 +2,10 @@ class Config(object):
     DEBUG = True
 
 class ProductionConfig(Config):
-    DATABASE_NAME = ""
-    DATABASE_USER = ""
-    DATABASE_HOST = ""
-    DATABASE_PASSWORD = ""
+    DATABASE_NAME = "blzfcfay"
+    DATABASE_USER = "blzfcfay"
+    DATABASE_HOST = "horton.elephantsql.com"
+    DATABASE_PASSWORD = "XWq1VkHmZBzOS1yP5RiLLAANYEEUsK20 "
     DEBUG = False
 
 
