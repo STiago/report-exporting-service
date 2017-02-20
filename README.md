@@ -59,6 +59,6 @@ Endpoints:
 
 We have here some examples of the solution:
 
-![Image1]()
+![Image1](https://github.com/STiago/Pictures/blob/master/report-pdf.png)
 
-![Image2]()
+![Image2](https://github.com/STiago/Pictures/blob/master/report-xml.png)
