@@ -1,5 +1,5 @@
-The purpose of this service is to take abstract reports and generate PDF documents and XML files out of them.
 
+The purpose of this service is to take abstract reports and generate PDF documents and XML files out of them.
 
 How to run the service: ./app/app.py
 How to run the tests: ./app/tests.py
