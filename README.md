@@ -2,6 +2,11 @@
 
 Documentation: https://github.com/STiago/report-exporting-service/tree/gh-pages and https://stiago.github.io/report-exporting-service/
 
+Code: https://github.com/STiago/report-exporting-service/tree/master/app
+
+Tests: https://github.com/STiago/report-exporting-service/blob/master/app/tests.py
+
+
 ## Report Exporting Service
 
 The purpose of this service is to take abstract reports and generate **PDF** documents and **XML** files out of them.
